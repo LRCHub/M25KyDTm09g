@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星を待つ",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-12T09:00:54.874232Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星を待つ",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_星を待つ_HACHI.txt"
+    }
+  ]
+}
